@@ -427,7 +427,7 @@ const content = {
           },
         },
       },
-      ctaButtonText: <>Falar diretamente com o Atendimento</>,
+      ctaButtonText: <>Falar diretamente com o Escritório</>,
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p className="font-secondFont">
