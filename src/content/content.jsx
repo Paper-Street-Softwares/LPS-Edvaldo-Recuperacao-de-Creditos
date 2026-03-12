@@ -133,7 +133,7 @@ const content = {
       miniTag: <>Recuperação de Créditos Tributários</>,
       FirstPart: <span></span>,
       Destaque: (
-        <span className="destaque relative italic font-light">Recupere</span>
+        <span className="relative italic font-light destaque">Recupere</span>
       ),
       SecondPart: <span>impostos pagos a mais</span>,
       subtitle: (
@@ -427,7 +427,7 @@ const content = {
           },
         },
       },
-      ctaButtonText: <>Falar diretamente com o Advogado</>,
+      ctaButtonText: <>Falar diretamente com o Atendimento</>,
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p className="font-secondFont">
@@ -1003,7 +1003,7 @@ const content = {
     //   },
     // },
     footer: {
-      copyrightLine: ` ${currentYear} - ${infos.name} - Todos os direitos reservados`,
+      copyrightLine: ` ${currentYear} - Recuperação Tributária - Todos os direitos reservados`,
       footerDivulgacaoText: "Gostaria de ter um site como este? Clique aqui",
       midSectionName: "Até mais",
       footerText:
